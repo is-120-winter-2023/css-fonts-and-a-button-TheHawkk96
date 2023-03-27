@@ -135,6 +135,7 @@ a:link {
 }
 a[href]:hover {
   color: var(--orange);
+  text-decoration: none;
 }
 
 .button {
